@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+	<book id="01">
+		<title></title>
+		<author></author>
+		<year></year>
+		<price></price>
+	</book>
+</bookstores>
